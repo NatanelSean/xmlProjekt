@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<List>
+    <Anime>
+        <Name>Death Note</Name>
+        <Premiered>Premiered: 2006</Premiered>
+        <Genre>Genres: Mystery, Psychological, Supernatural, Thriller</Genre>
+        <Members>Members: 2,861,284</Members>
+        <Score>&#9733; 8.63</Score>
+    </Anime>
+    <Anime>
+        <Name>Attack On Titan</Name>
+        <Premiered>Premiered: 2013</Premiered>
+        <Genre>Genres: Action, Mystery, Drama, Shounen, Fantasy</Genre>
+        <Members>Members: 2,834,486</Members>
+        <Score>&#9733; 8.51</Score>
+    </Anime>
+    <Anime>
+        <Name>FMA: Brotherhood</Name>
+        <Premiered>Premiered: 2009</Premiered>
+        <Genre>Genres: Action, Comedy, Drama, Fantasy, Shounen</Genre>
+        <Members>Members: 2,447,999</Members>
+        <Score>&#9733; 9.17</Score>
+    </Anime>
+    <Anime>
+        <Name>Sword Art Online</Name>
+        <Premiered>Premiered: 2012</Premiered>
+        <Genre>Genres: Action, Game, Adventure, Romance, Fantasy</Genre>
+        <Members>Members: 2,395,899</Members>
+        <Score>&#9733; 7.22</Score>
+    </Anime>
+    <Anime>
+        <Name>One Punch Man</Name>
+        <Premiered>Premiered: 2015</Premiered>
+        <Genre>Genres: Action, Sci-fi, Comedy, Parody, Supernatural</Genre>
+        <Members>Members: 2,333,204</Members>
+        <Score>&#9733; 8.54</Score>
+    </Anime>
+    <Anime>
+        <Name>My Hero Academia</Name>
+        <Premiered>Premiered: 2016</Premiered>
+        <Genre>Genres: Action, Comedy, Shounen, Super Power</Genre>
+        <Members>Members: 2,164,332</Members>
+        <Score>&#9733; 8.04</Score>
+    </Anime>
+    <Anime>
+        <Name>Tokyo Groul</Name>
+        <Premiered>Premiered: 2014</Premiered>
+        <Genre>Genres: Action, Horror, Supernatural, Drama</Genre>
+        <Members>Members: 2,094,683</Members>
+        <Score>&#9733; 7.80</Score>
+    </Anime>
+    <Anime>
+        <Name>Naruto</Name>
+        <Premiered>Premiered: 2002</Premiered>
+        <Genre>Genres: Action, Adventure, Comedy, Shounen</Genre>
+        <Members>Members: 2,050,605</Members>
+        <Score>&#9733; 7.93</Score>
+    </Anime>
+    <Anime>
+        <Name>Kimi no Na wa.</Name>
+        <Premiered>Premiered: 2016</Premiered>
+        <Genre>Genres: Romance, Supernatural, School, Drama</Genre>
+        <Members>Members: 1,935,204</Members>
+        <Score>&#9733; 8.93</Score>
+    </Anime>
+    <Anime>
+        <Name>Steins;Gate</Name>
+        <Premiered>Premiered: 2011</Premiered>
+        <Genre>Genres: Sci-fi, Pcychological, Drama, Thriller</Genre>
+        <Members>Members: 1,928,430</Members>
+        <Score>&#9733; 9.10</Score>
+    </Anime>
+</List>

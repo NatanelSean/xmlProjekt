@@ -1,0 +1,217 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Fira Sans", sans-serif;
+}
+
+h1 {
+  color: #b36504;
+  font-weight: 600;
+  font-size: 30px;
+  opacity: 0.8;
+}
+h2, p {
+  color: #d47602;
+  font-weight: 500;
+  opacity: 0.8;
+}
+h3 {
+  color: #b36504;
+  font-weight: 600;
+  opacity: 0.8;
+}
+
+main {
+  min-height: 100vh;
+  background: linear-gradient(to right bottom, #ffbf70, #ffa738);  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.panela {
+  background: white;
+  min-height: 80vh;
+  width: 60%;
+  margin: 20px 0px;
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+    );
+    border-radius: 20px;
+    z-index: 3;
+    backdrop-filter: blur(20px);
+    display: flex;
+}
+
+.kvadrat1, 
+.kvadrat3 {
+  background: white;
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.5)
+    );
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    border-radius: 20%;
+    z-index: 2;
+    backdrop-filter: blur(20px);
+}
+
+.kvadrat2, 
+.kvadrat4 {
+  background: white;
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.5)
+    );
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    border-radius: 20%;
+    z-index: 1;
+    backdrop-filter: blur(20px);
+}
+
+footer {
+  background: linear-gradient(to left bottom, #ffa738, #ffbf70); 
+  width: 100%;
+  padding: 40px 0px;
+}
+
+.copyright {
+  color: white;
+  text-align: center;
+}
+
+.kvadrat1 {
+  top: 5%;
+  left: 12%;
+}
+.kvadrat2 {
+  top: 15%;
+  left: 7%;
+}
+.kvadrat3 {
+  top: 15%;
+  right: 16%;
+}
+.kvadrat4 {
+  top: 25%;
+  right: 11%;
+}
+
+.koro {
+  border-radius: 50%;
+}
+
+.profil {
+  margin-bottom: 100px;
+}
+
+.anime img {
+  border-radius: 5%;
+}
+
+.kontejner {
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+    );
+  border-radius: 20px;
+}
+
+.navigator {
+  padding: 25px;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.gumb {
+  display: flex;
+  margin: 20px 0px;
+  padding: 10px 5px;
+  align-items: center;
+}
+
+.gumb h2 {
+  padding: 0px 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link, a:visited {
+  color: #d47602;
+}
+
+a:hover, a:active {
+  color: rgb(255, 38, 0);
+}
+
+.popularni {
+  flex: 2;
+}
+
+/**************************/
+/*     NASLOVI ANIMEA     */
+/**************************/
+.naslov {
+  margin-bottom: 50px;
+}
+
+.naslov input{
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+    );
+    border: none;
+    width: 60%;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.popularni {
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.anime {
+  display: flex;
+  background: linear-gradient(
+    to left top, 
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.6)
+  );
+  border-radius: 10px;
+  margin: 20px 0px;
+  padding: 10px;
+  box-shadow: 6px 6px 20px rgba(122, 122, 122, 0.4);
+  justify-content: space-between;
+}
+
+.anime-info {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.ocjena {
+  font-weight: bold;
+  background: linear-gradient(to right top, #ffe959, #ff8000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
